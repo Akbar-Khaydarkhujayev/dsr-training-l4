@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;;AAMI","sources":["src/styles/main.scss"],"sourcesContent":["body {\n    background-color: #282c34;\n    color: white;\n    font-family: Arial, sans-serif;\n    text-align: center;\n\n    h1 {\n        color: lightblue;\n    }\n}\n"],"names":[],"version":3,"file":"task4.9f367d21.css.map","sourceRoot":"/__parcel_source_root/"}
