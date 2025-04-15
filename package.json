@@ -1,7 +1,7 @@
 {
-    "name": "frontend-bootcamp-task",
+    "name": "wabpack-config",
     "version": "1.0.0",
-    "description": "A frontend project using Webpack to bundle TypeScript, SCSS, and HTML.",
+    "description": "",
     "main": "dist/index.js",
     "scripts": {
         "build": "webpack --mode production",
